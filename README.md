@@ -33,13 +33,17 @@ The project was intentionally kept simple so the primary focus remained on maste
 
 ## Initial Version
 
-<img src="images/before-update.png" width="700">
+<img width="1366" height="768" alt="Screenshot (592)" src="https://github.com/user-attachments/assets/f0dae255-93e5-49ee-9aba-61902fe13ae2" />
+<img width="1366" height="768" alt="Screenshot (591)" src="https://github.com/user-attachments/assets/172e9f85-3627-48b0-820e-967cbb66e88a" />
+
 
 ---
 
 ## Updated Version
 
-<img src="images/after-update.png" width="700">
+<img width="1366" height="768" alt="Screenshot (593)" src="https://github.com/user-attachments/assets/b9f21a75-8126-4acc-981a-f083c04b648f" />
+<img width="1366" height="768" alt="Screenshot (594)" src="https://github.com/user-attachments/assets/d4bcc0f7-1d66-478e-abfe-10ac8c8f94e0" />
+
 
 ---
 
