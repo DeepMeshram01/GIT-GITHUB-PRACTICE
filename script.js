@@ -1,4 +1,4 @@
 function showMessage() {
     document.getElementById("message").innerHTML =
-    "Welcome to my GitHub Practice Project!";
+    "Thanks for visiting my GitHub profile!";
 }
